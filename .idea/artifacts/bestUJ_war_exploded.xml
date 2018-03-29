@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bestUJ:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/bestUJ_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="bestUJ/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bestUJ" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
