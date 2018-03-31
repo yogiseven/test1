@@ -10,6 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="best-web" target="1.5" />
       <module name="bestUJ" target="1.5" />
     </bytecodeTargetLevel>
   </component>
