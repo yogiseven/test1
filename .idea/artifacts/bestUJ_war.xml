@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="bestUJ:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="best.com-1.0-SNAPSHOT.war">
+    <root id="archive" name="bestUJ-1.0.war">
       <element id="artifact" artifact-name="bestUJ:war exploded" />
     </root>
   </artifact>
